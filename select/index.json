@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラップト・アラウンド・ユア・フィンガー",
+  "base_artist": "Post Malone",
+  "createdAt": "2026-02-22T19:14:52.955910Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wrapped Around Your Finger",
+      "artist": "Post Malone",
+      "has_synced": false,
+      "path": "select/pl_01_Wrapped_Around_Your_Finger_Post_Malone.txt"
+    }
+  ]
+}
